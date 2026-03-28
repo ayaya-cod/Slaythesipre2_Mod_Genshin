@@ -14,6 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 namespace genshin_posion;
 
+
 public sealed class Blood_Blossom_Aroma : PowerModel
 {
     public override PowerType Type => PowerType.Debuff;
