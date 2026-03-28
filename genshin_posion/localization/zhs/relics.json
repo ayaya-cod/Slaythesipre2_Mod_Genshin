@@ -1,0 +1,9 @@
+{
+  "FAVONIUS_CODEX.title": "西风秘典",
+  "FAVONIUS_CODEX.description": "每隔一回合获得 {Energy} 点能量",
+  "FAVONIUS_CODEX.flavor": "西风骑士团的学者间流传的秘典，记载着元素与物质的道理和力量",
+  "VORTEX_VANQUISHER.title":"贯虹之槊",
+  "VORTEX_VANQUISHER.description":"在每场战斗开始前，获得1点敏捷，并且前三回合获得{Block}点格挡",
+  "VORTEX_VANQUISHER.flavor":"或许能贯穿一切的锋利长枪。挥舞当中，仿佛能见到空气被枪划破的裂痕"
+
+}

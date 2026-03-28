@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://37d1w1hujbh"]
+
+[ext_resource type="Texture2D" uid="uid://b56uxhshvjfxd" path="res://images/atlases/relic_atlas.sprites/220px-无背景-武器-贯虹之槊.png" id="1_xku5f"]
+
+[resource]
+atlas = ExtResource("1_xku5f")
+region = Rect2(0, 0, 256, 256)

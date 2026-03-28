@@ -1,0 +1,16 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+# Visual Studio 临时文件（报错根源）
+.vs/
+*.suo
+*.user
+*.vsidx
+
+# 编译输出文件夹
+bin/
+obj/
+
+# 模组运行文件（源码分支不上传这些）
+*.dll
+*.pck
