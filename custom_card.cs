@@ -29,7 +29,7 @@ namespace genshin_posion
                 canonicalEnergyCost: 0,        // 1. 费用：0费
                 type: CardType.Skill,          // 2. 类型：技能牌
                 rarity: CardRarity.Uncommon,   // 3. 稀有度：罕见
-                targetType: TargetType.AnyAlly,// 4. 目标：任意一名队友
+                targetType: TargetType.AllAllies,// 4. 目标：所有队友
                 shouldShowInCardLibrary: true  // 5. 在卡牌库显示
             )
         {
