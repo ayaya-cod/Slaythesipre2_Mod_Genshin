@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace genshin_posion
 {
+    //钟离的庇护
     public sealed class Zhong_Li_Bless : CardModel
     {
         // 多人模式限制
@@ -48,4 +49,5 @@ namespace genshin_posion
             base.DynamicVars.Block.UpgradeValueBy(5m);
         }
     }
+
 }

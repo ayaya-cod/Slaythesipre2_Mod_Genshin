@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://cecauycivx32a"]
+
+[ext_resource type="Texture2D" uid="uid://ghrv88g2ig6b" path="res://images/atlases/power_atlas.sprites/下载.png" id="1_bg7sr"]
+
+[resource]
+atlas = ExtResource("1_bg7sr")
+region = Rect2(0, 0, 256, 256)

@@ -19,6 +19,7 @@ namespace genshin_posion
             ModHelper.AddModelToPool(typeof(SharedRelicPool), typeof(Favonius_Codex));
             ModHelper.AddModelToPool(typeof(SharedRelicPool), typeof(Vortex_Vanquisher));
             ModHelper.AddModelToPool(typeof(ColorlessCardPool), typeof(Zhong_Li_Bless));
+           
 
         }
     }
