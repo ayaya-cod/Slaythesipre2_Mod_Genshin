@@ -1,0 +1,11 @@
+{
+  "id": "genshin_posion",
+  "name": "原神药水模组",
+  "author": "ayaya",
+  "description": "添加了三个原神药水，两个遗物，一些卡牌",
+  "version": "v1.0.4",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
