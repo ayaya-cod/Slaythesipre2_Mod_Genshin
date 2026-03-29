@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://df0jqhef68y80"]
+
+[ext_resource type="Texture2D" uid="uid://dta3yqxpng2iw" path="res://images/atlases/power_atlas.sprites/frozen_power.png" id="1_ppqcy"]
+
+[resource]
+atlas = ExtResource("1_ppqcy")
+region = Rect2(0, 0, 256, 256)

@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://dl2m42fk6icws"]
+
+[ext_resource type="Texture2D" uid="uid://b0o73ro1x3f2r" path="res://images/atlases/power_atlas.sprites/vulnerable_power.png" id="1_tcym8"]
+
+[resource]
+atlas = ExtResource("1_tcym8")
+region = Rect2(0, 0, 256, 256)

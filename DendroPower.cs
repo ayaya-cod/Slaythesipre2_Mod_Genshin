@@ -1,11 +1,12 @@
 using Godot;
+using MegaCrit.Sts2.Core.Entities.Powers;
 
 namespace genshin_posion;
 
-public sealed class DendroPower : ElementalPower
+public sealed class Dendro_Power : ElementalPower
 {
+    public override Color AmountLabelColor => Color.FromHtml("#4CAF50");
     public override ElementType Element => ElementType.Dendro;
-    public override Color AmountLabelColor => Color.FromHtml("#8BC34A"); // 草浅绿
 
-    public DendroPower(int stacks) : base(stacks) { }
+    public Dendro_Power(int stacks) : base(stacks) { }
 }

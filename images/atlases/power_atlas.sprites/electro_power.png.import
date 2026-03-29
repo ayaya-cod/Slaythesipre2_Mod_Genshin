@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dlissmhsbll65"
-path="res://.godot/imported/blood_blossom_aroma.png-b9d8950b3ed32bd0eb8e800be407b29d.ctex"
+uid="uid://dpeynkumum1e5"
+path="res://.godot/imported/electro_power.png-ca9995ef1d2abec50f2954cd93d4c749.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/powers/blood_blossom_aroma.png"
-dest_files=["res://.godot/imported/blood_blossom_aroma.png-b9d8950b3ed32bd0eb8e800be407b29d.ctex"]
+source_file="res://images/atlases/power_atlas.sprites/electro_power.png"
+dest_files=["res://.godot/imported/electro_power.png-ca9995ef1d2abec50f2954cd93d4c749.ctex"]
 
 [params]
 

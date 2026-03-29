@@ -1,11 +1,12 @@
 using Godot;
+using MegaCrit.Sts2.Core.Entities.Powers;
 
 namespace genshin_posion;
 
-public sealed class PyroPower : ElementalPower
+public sealed class Pyro_Power : ElementalPower
 {
+    public override Color AmountLabelColor => Color.FromHtml("#FF5722");
     public override ElementType Element => ElementType.Pyro;
-    public override Color AmountLabelColor => Color.FromHtml("#FF5722"); // 火橙
 
-    public PyroPower(int stacks) : base(stacks) { }
+    public Pyro_Power(int stacks) : base(stacks) { }
 }

@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://bqugicki7kiot"]
+
+[ext_resource type="Texture2D" uid="uid://1qlgyv5my3ri" path="res://images/atlases/power_atlas.sprites/dendro_seed_power.png" id="1_g51h1"]
+
+[resource]
+atlas = ExtResource("1_g51h1")
+region = Rect2(0, 0, 256, 256)

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ghrv88g2ig6b"
-path="res://.godot/imported/下载.png-715e7c41773f938bd63d620666cf2ff4.ctex"
+uid="uid://bcoatqiiimigk"
+path="res://.godot/imported/frozen_power.png-d02d5594b5e95e6a9826547f635b980e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://images/atlases/power_atlas.sprites/下载.png"
-dest_files=["res://.godot/imported/下载.png-715e7c41773f938bd63d620666cf2ff4.ctex"]
+source_file="res://images/powers/frozen_power.png"
+dest_files=["res://.godot/imported/frozen_power.png-d02d5594b5e95e6a9826547f635b980e.ctex"]
 
 [params]
 

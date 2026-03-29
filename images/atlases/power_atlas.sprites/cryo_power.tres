@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://cdr7jimxlwmiv"]
+
+[ext_resource type="Texture2D" uid="uid://gilh02ox4e3u" path="res://images/atlases/power_atlas.sprites/cryo_power.png" id="1_hdeu7"]
+
+[resource]
+atlas = ExtResource("1_hdeu7")
+region = Rect2(0, 0, 256, 256)

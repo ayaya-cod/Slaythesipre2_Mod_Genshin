@@ -1,19 +1,12 @@
 using Godot;
-using MegaCrit.Sts2.Core.Combat;
-using System.Threading.Tasks;
+using MegaCrit.Sts2.Core.Entities.Powers;
 
 namespace genshin_posion;
 
-public sealed class DendroSeedPower : ElementalPower
+public sealed class Dendro_Seed_Power : ElementalPower
 {
+    public override Color AmountLabelColor => Color.FromHtml("#8BC34A");
     public override ElementType Element => ElementType.DendroSeed;
-    public override Color AmountLabelColor => Color.FromHtml("#7CB342"); // 草绿
 
-    public DendroSeedPower(int stacks) : base(stacks) { }
-
-    // 草种子不自动减层，等待触发反应
-    public override Task AfterSideTurnStart(CombatSide side, CombatState combatState)
-    {
-        return Task.CompletedTask;
-    }
+    public Dendro_Seed_Power(int stacks) : base(stacks) { }
 }

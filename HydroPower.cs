@@ -1,11 +1,12 @@
 using Godot;
+using MegaCrit.Sts2.Core.Entities.Powers;
 
 namespace genshin_posion;
 
-public sealed class HydroPower : ElementalPower
+public sealed class Hydro_Power : ElementalPower
 {
+    public override Color AmountLabelColor => Color.FromHtml("#2196F3");
     public override ElementType Element => ElementType.Hydro;
-    public override Color AmountLabelColor => Color.FromHtml("#2196F3"); // 水蓝
 
-    public HydroPower(int stacks) : base(stacks) { }
+    public Hydro_Power(int stacks) : base(stacks) { }
 }

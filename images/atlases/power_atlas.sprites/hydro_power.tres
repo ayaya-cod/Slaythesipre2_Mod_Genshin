@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://cmryftehdjeww"]
+
+[ext_resource type="Texture2D" uid="uid://oh76x0ey1fqh" path="res://images/atlases/power_atlas.sprites/hydro_power.png" id="1_bu1hj"]
+
+[resource]
+atlas = ExtResource("1_bu1hj")
+region = Rect2(0, 0, 256, 256)

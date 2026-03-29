@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://g7qom4d6xb0h"]
+
+[ext_resource type="Texture2D" uid="uid://dn3p3emgys60b" path="res://images/atlases/power_atlas.sprites/pyro_power.png" id="1_3w2f1"]
+
+[resource]
+atlas = ExtResource("1_3w2f1")
+region = Rect2(0, 0, 256, 256)
